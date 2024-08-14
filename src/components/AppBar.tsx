@@ -5,7 +5,7 @@ function AppBar() {
     
   <img
     src="src/assets/Logo 12.png"
-    alt="logo"
+    alt="REACHINBOX"
     className="h-10"
   />
 
