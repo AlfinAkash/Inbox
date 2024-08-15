@@ -10,7 +10,7 @@ const ThemeToggle: React.FC = () => {
     }, [darkMode]);
 
     return (
-        <div className="flex items-center justify-center min-h-screen bg-gray-100 dark:bg-gray-800">
+        <div className=" ">
             <div
                 className="w-16 h-8 bg-gray-300 dark:bg-gray-600 rounded-full p-1 flex items-center cursor-pointer transition-colors duration-300 ease-in-out"
                 onClick={() => setDarkMode(!darkMode)}
