@@ -1,6 +1,6 @@
 ## **Steps how to run:**
    ```bash
-   git clone https://github.com/AlfinAkash/Reachinbox.git
+   git clone https://github.com/AlfinAkash/Inbox.git
 
    cd into project
 
